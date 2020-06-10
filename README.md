@@ -1,2 +1,2 @@
 # VS-settings
-Setting Files of Visual Studio Community 2017
+Setting Files of Visual Studio Community 2019
